@@ -15,9 +15,11 @@ log.write('\n')
         log.write(str(req.user_agent)+'\n')
         log.write(str(res)+'\n')
 """
+
 @app.route("/about")
 def about():
     return render_template("index.html" , username  ='Rowida' ,the_title='Welcome to search4letters on the web!')
+
 
 def log_request(res : str,  req :'flask_request'):
     with open('search4letters.log' , 'w+') as log :
@@ -26,7 +28,7 @@ def log_request(res : str,  req :'flask_request'):
         print(req.user_agent,file = log ,end = '|')
         print(res ,file = log ,end = '|')
 
-@app.route('/entry') 
+@app.route('/') 
 def entry_page():
     return render_template('entry.html',title='Welcome to search4letters on the web!' , username = 'Rowida')
 
@@ -40,9 +42,6 @@ def do_search():
             the_results=results)
 
 
-@app.route('/')
-def hello():
-    return 'Hello world from Flask!'
 
 @app.route('/viewlog')
 def view_the_req_history():
