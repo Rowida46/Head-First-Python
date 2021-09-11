@@ -7,7 +7,7 @@ This is a code implementation for the [Head-First-Python](https://www.amazon.com
 
 `\` this is the main dir
 
-<img src= "https://github.com/Rowida46/Head-First-Python/blob/main/img/entry.png" width="400">
+<img src= "https://github.com/Rowida46/Head-First-Python/blob/main/img/entry.png" width="800">
 
 
 
@@ -15,7 +15,7 @@ This is a code implementation for the [Head-First-Python](https://www.amazon.com
 
 `\search4`
 
-<img src= "https://github.com/Rowida46/Head-First-Python/blob/main/img/res.png" width="400">
+<img src= "https://github.com/Rowida46/Head-First-Python/blob/main/img/res.png" width="800">
 
 
 - ViewLog bade __URL__  
