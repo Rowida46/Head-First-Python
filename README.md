@@ -10,7 +10,7 @@ This is a code implementation for the [Head-First-Python](https://www.amazon.com
 
 - result page __URL__ 
 `\search4`
-![](https://github.com/Rowida46/Head-First-Python/blob/main/img/res.png)
+![](https://github.com/Rowida46/Head-First-Python/blob/main/img/res.png width= 300)
 
 
 - ViewLog bade __URL__  
