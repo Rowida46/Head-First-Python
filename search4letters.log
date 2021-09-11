@@ -1,1 +1,1 @@
-ImmutableMultiDict([('phrase', 'Blew the lid of ur life Rowida'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0|{'a', 'e', 'u', 'i', 'o'}|
+ImmutableMultiDict([('phrase', 'Blew the lid of ur life'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0|{'i', 'o', 'u', 'e'}|
